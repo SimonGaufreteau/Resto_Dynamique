@@ -1,6 +1,6 @@
-Auteur : Simon GAUFRETEAU
-Date : 23/01/2020
-Projet : Resto_Dynamique
+###Auteur : Simon GAUFRETEAU
+###Date : 23/01/2020
+###Projet : Resto_Dynamique
 
 
 # Introduction 
